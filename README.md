@@ -15,7 +15,6 @@ Evaluation on mock test set
 
 Classification Report:
               precision    recall  f1-score   support
-
         FAKE       1.00      0.95      0.98        21
     CREDIBLE       0.95      1.00      0.98        20
     accuracy                           0.98        41
@@ -30,7 +29,6 @@ Evaluation on real test set
 
 Classification Report:
               precision    recall  f1-score   support
-
         FAKE       1.00      0.71      0.83         7
     CREDIBLE       0.78      1.00      0.88         7
     accuracy                           0.86        14
